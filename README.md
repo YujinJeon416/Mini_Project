@@ -1,4 +1,4 @@
-# Mini_Project
+# Mini_Project  https://yujinjeon416.github.io/Mini_Project/.
  ---------------------------------------
 
 # 1. PREVIEW & 개요
