@@ -6,6 +6,8 @@
 - 사용 기술 : JAVA, JAVA SWING
 
 # 최종 결과물
+![image01](https://user-images.githubusercontent.com/75886211/125153807-3de72c80-e191-11eb-9ccc-d57576e5810d.png)
+
 
 
 [https://youtu.be/Vi9-jGsiuw8](https://youtu.be/Vi9-jGsiuw8)
@@ -17,8 +19,7 @@
 ---
 
 # **제공 기능**
-
-[제목 없음](https://www.notion.so/4090f48b93bc4b0f8411d7b02c666800)
+![djfkdls](https://user-images.githubusercontent.com/75886211/125153858-93bbd480-e191-11eb-92fe-1119f7f96a63.png)
 
 ---
 
